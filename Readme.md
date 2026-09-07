@@ -39,3 +39,57 @@ Risk_model1.pkl
 Streamlit Application
      ↓
 Patient Risk Prediction
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
+- PostgreSQL
+- SQL
+- Excel
+- Streamlit
+- Joblib
+- Jupyter Notebook
+
+---
+
+## 📊 Data Analysis
+
+SQL was used to perform:
+
+- Patient and laboratory data joins
+- Average laboratory result analysis
+- Abnormal laboratory result identification
+- Treatment cost analysis by diagnosis
+- Patient outcome analysis
+- Laboratory trend analysis
+- Outcome distribution by diagnosis
+
+Excel was used for:
+
+- VLOOKUP-based data preparation
+- Patient data enrichment
+- Risk classification
+- KPI and trend analysis
+
+---
+
+## 🤖 Machine Learning
+
+Python and Pandas were used for:
+
+- Data cleaning
+- Dataset merging
+- Date conversion
+- Length of Stay calculation
+- Outcome encoding
+- Feature preparation
+- Train/test splitting
+
+A machine learning classification model was trained and saved using Joblib:
+
+```text
+Risk_model1.pkl
